@@ -946,6 +946,7 @@
     <Content Include="Templates\Terraform\ProjectTemplate.json" />
     <Content Include="Templates\Terraform\ReleaseDefinitions\Terraform.json" />
     <Content Include="Templates\Terraform\ServiceEndpoints\Terraform-code.json" />
+    <None Include="Properties\PublishProfiles\crgar-paas-demogen-app - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Properties\PublishProfiles\CustomProfile1.pubxml" />
     <None Include="Properties\PublishProfiles\demogenapi - FTP.pubxml" />
